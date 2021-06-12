@@ -38,7 +38,8 @@ I'm Using these OS:
 
 #### Unlimited Sourcecode Works Chant:
 
-```I am the Owner of my Program,
+```
+I am the Owner of my Program,
 PC is my Body,... And binary flows in my blood...
 I have written over a thousands lines of codes...
 Unknown to sleep, nor known to rest.
@@ -46,6 +47,6 @@ Have Withstood pain... To stay in front of screen...
 Yet those programs will never bug again!
 So, as I pray...
 Unlimited Sourcecode Works!
-(Opens GitHUb and StackOverFlow)
-
+```
+(Opens GitHub and StackOverFlow)
 
