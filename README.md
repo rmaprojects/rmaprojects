@@ -18,7 +18,7 @@ Hi, my name is Raka Muhammad Al-Hafidz. I am an Android developer and a Discord 
 ## Passive Skills
      - Leadership B
      - Hardware Masery C+
-     - OS Knowledge A+
+     - English A-
      
 ## Languages
 
