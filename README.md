@@ -8,7 +8,7 @@ Hi, my name is Raka. I am an Android developer and a Discord bot developer(Newbi
 - Class: Programmer 💻
 - Noble Phantasm: *Unlimited Soucecode Works* | Rank: B+
 - Armament: Ancient Github Account :octocat:
-- Currently Unemployed
+- Currently Unemployed 💼
 
 ## Active Skills:
      - PowerPoint EX 🗡️
@@ -17,8 +17,9 @@ Hi, my name is Raka. I am an Android developer and a Discord bot developer(Newbi
      
 ## Passive Skills
      - Leadership B
-     - Hardware Masery C+
+     - Hardware Mastery B
      - English A-
+     - Curious Learner EX
      
 ## Languages
 
@@ -49,4 +50,8 @@ So, as I pray...
 Unlimited Sourcecode Works!
 ```
 (Opens GitHub and StackOverFlow)
+
+### My Social Media:
+
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png' alt='GitHub' height='70'>](https://github.com/RMA-17) [<img src='https://www.freepnglogos.com/uploads/discord-logo-png/discord-icon-all-the-cool-kids-are-moving-discord-podfeet-podcasts-0.png' alt='Discord' height='70'>](https://discord.gg/99UJePcp4F) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png' alt='Instagram' height='65'>](https://instagram.com/RMA-17)[<img src='https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png' alt='Twitter' height='70'>](https://twitter.com/raka_m_a)
 
