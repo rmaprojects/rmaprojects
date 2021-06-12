@@ -14,12 +14,14 @@ Hi, my name is Raka. I am an Android developer and a Discord bot developer(Newbi
      - PowerPoint EX 🗡️
      - Fast Typer A+ ⌨️
      - Googling A
+     - PC Builder B-
      
 ## Passive Skills
      - Leadership B
      - Hardware Mastery B
      - English A-
      - Curious Learner EX
+     - Problem Solver B
      
 ## Languages
 
