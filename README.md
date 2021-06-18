@@ -37,7 +37,7 @@ I'm currently learned these Languages:
 
 I'm Using these OS:
 
-<img src='https://github.com/RMA-17/RMA-17/blob/main/Andro.png?raw=true' height='80'> <img src='https://github.com/RMA-17/RMA-17/blob/main/10.png?raw=true' height='80'> <img src='https://github.com/RMA-17/RMA-17/blob/main/ubuntu-logo.png?raw=true' height='80'>
+<img src='https://github.com/RMA-17/RMA-17/blob/main/Andro.png?raw=true' height='80'> <img src='https://github.com/RMA-17/RMA-17/blob/main/10.png?raw=true' height='80'> <img src='https://github.com/RMA-17/RMA-17/blob/main/kali.png?raw=true' height='80'>
 
 #### Unlimited Sourcecode Works Chant:
 
