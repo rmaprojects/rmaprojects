@@ -2,7 +2,7 @@
 
 
 ### About me:
-Hi, my name is Raka. I am an Android developer and a Discord bot developer(Newbie) | And this is my Info:
+Hi, my name is Raka. I am an Android developer and a Discord bot developer (Newbie) | And this is my Info:
 
 - True Name: Raka Muhammad Al-Hafidz ♂️
 - Class: Programmer 💻
@@ -32,6 +32,7 @@ I'm currently learned these Languages:
 - <img src='https://raw.githubusercontent.com/RMA-17/RMA-17/main/maieskiel.png' height='20'> MySQL
 - <img src='https://github.com/RMA-17/RMA-17/blob/main/pehape.png?raw=true' height='20'> PhP
 - <img src='https://github.com/RMA-17/RMA-17/blob/main/pngegg.png?raw=true' height='20'> XML
+- <img src='https://github.com/RMA-17/RMA-17/blob/main/pngaaa.com-619282.png?raw=true' height='20'> Python
 
 ## Current OS
 
