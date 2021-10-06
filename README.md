@@ -34,6 +34,8 @@ I'm currently learned these Languages:
 - <img src='https://github.com/RMA-17/RMA-17/blob/main/pngegg.png?raw=true' height='20'> XML
 - <img src='https://github.com/RMA-17/RMA-17/blob/main/pngaaa.com-619282.png?raw=true' height='20'> Python
 - <img src='https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png' height='20'> C++
+- <img src='https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png' height='20'> Kotlin
+- <img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png' height='20'> Dart
 
 ## Current OS
 
