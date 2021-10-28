@@ -61,6 +61,6 @@ Unlimited Sourcecode Works!
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png' alt='GitHub' height='70'>](https://github.com/RMA-17) [<img src='https://www.freepnglogos.com/uploads/discord-logo-png/discord-icon-all-the-cool-kids-are-moving-discord-podfeet-podcasts-0.png' alt='Discord' height='70'>](https://discord.gg/99UJePcp4F) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png' alt='Instagram' height='65'>](https://instagram.com/RMA-17)[<img src='https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png' alt='Twitter' height='70'>](https://twitter.com/raka_m_a)
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=RMA-17&layout=compact&theme=algolia' alt="This stat doesn't indicate my skill, this is just showing which languages that I used most and I uploaded most on Github"</img>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=RMA-17&layout=compact&theme=algolia' alt="This stat doesn't indicate my skill, this is just showing which languages that I used most and I uploaded most on Github">
 
 *NOTE: This stat doesn't indicate my skill, this stat just showing which languages that I used most and I uploaded most on Github
