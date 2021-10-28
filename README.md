@@ -25,7 +25,7 @@ Hi, my name is Raka. I am an Android developer and a Discord bot developer (Newb
      
 ## Languages
 
-I'm currently learned these Languages:
+I currently learned these Languages:
 
 - <img src='https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png' height='20'> node.js
 - <img src='https://raw.githubusercontent.com/RMA-17/RMA-17/main/pngaaa.com-2459493.png' height='20'> Java
