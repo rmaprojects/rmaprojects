@@ -25,7 +25,7 @@ Hi, my name is Raka. I am an Android developer and a Discord bot developer (Newb
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=RMA-17&show_icons=true&include_all_commits=true&theme=algolia">
 </br>
-## Languages
+# Languages
 
 I currently learned these Languages:
 
