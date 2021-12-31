@@ -1,21 +1,9 @@
+## <img src="https://github.com/RMA-17/RMA-17/blob/main/Drawer%20Banner.png">
 ## Welcome to RMA-17 Github!
 
-
 ### About me:
-Hi, my name is Raka. I am an Android developer and a Discord bot developer (Newbie) | And this is my Info:
+Hi, my name is Raka. I am a Fullstack Android developer and Linux Enthusiast | And this is my Info:
 
-- True Name: Raka Muhammad Al-Hafidz ♂️
-- Class: Programmer 💻
-- Noble Phantasm: *Unlimited Soucecode Works* | Rank: B+
-- Armament: Ancient Github Account :octocat:
-- Currently Unemployed 💼
-
-## Active Skills:
-     - PowerPoint EX 🗡️
-     - Fast Typer A+ ⌨️
-     - Googling A
-     - PC Builder B-
-     
 ## Passive Skills
      - Leadership B
      - Hardware Mastery B
@@ -45,20 +33,6 @@ I currently learned these Languages:
 I'm Using these OS:
 
 <img src='https://github.com/RMA-17/RMA-17/blob/main/Andro.png?raw=true' height='80'> <img src='https://github.com/RMA-17/RMA-17/blob/main/10.png?raw=true' height='80'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png' height='80'>
-
-#### Unlimited Sourcecode Works Chant:
-
-```
-I am the Owner of my Program,
-PC is my Body,... And binary flows in my blood...
-I have written over a thousands lines of codes...
-Unknown to sleep, nor known to rest.
-Have Withstood pain... To stay in front of screen...
-Yet those programs will never bug again!
-So, as I pray...
-Unlimited Sourcecode Works!
-```
-(Opens GitHub and StackOverFlow)
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=RMA-17&layout=compact&theme=algolia' alt="This stat doesn't indicate my skill, this is just showing which languages that I used most and I uploaded most on Github">
 
