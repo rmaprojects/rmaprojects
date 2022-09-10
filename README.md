@@ -1,4 +1,3 @@
-## ![RMA-17 Card Name](https://cardivo.vercel.app/api?name=RMA%20Projects&description=Fullstack%20Mobile%20App%20developer%20(currently)&image=https://avatars.githubusercontent.com/u/69703296&backgroundColor=%23121212&pattern=floatingCogs&colorPattern=%23232023&fontColor=%23fff&opacity=1&instagram=raka_m.a&twitter=raka_m_a&github=RMA-17&iconColor=%23f2f3f4)
 ## Welcome to RMA-17 Github!
 
 ### About me:
@@ -13,6 +12,7 @@ Hi, my name is Raka. I am a Fullstack Android developer and Linux Enthusiast | A
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=RMA-17&show_icons=true&include_all_commits=true&theme=algolia">
 </br>
+<img src="https://github-profile-trophy.vercel.app/?username=RMA-17">
 
 ## Languages
 
