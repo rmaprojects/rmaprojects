@@ -1,4 +1,4 @@
-## Welcome to RMA-17 Github!
+## Welcome to RMA Projects Github!
 
 ### About me:
 Hi, my name is Raka. I am a Fullstack Android developer and Linux Enthusiast | And this is my Info:
